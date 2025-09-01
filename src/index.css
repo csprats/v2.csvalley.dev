@@ -1,0 +1,25 @@
+:root {
+  text-align: center;
+}
+
+header {
+  background-color: #74A4BC;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 40px;
+}
+
+nav {
+  border: solid aqua 2px;
+  border-radius: 8px;
+  margin-bottom: 50px;
+}
+
+img {
+  border-radius: 8px;
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
